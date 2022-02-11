@@ -1,5 +1,6 @@
 # Kiddie Drip Closet
 This website is about a proposed clothing resale shop.
+Link: [https://jaskaiesha.github.io/C22Pro1/]
 ## User Stories
 As A parent
 I WANT TO access inventory 
